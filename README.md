@@ -36,7 +36,7 @@ It saves time and makes AI content generation accessible for everyone.
 ### Example Input/Output
 | Input (Google Sheet) | Generated Article (Output) |
 |-----------------------|-----------------------------|
-| `15-Sep-2025, AI in HR` | AI-generated 500-word article on *AI in HR* |
+| `10-09-2025, AI in Healthcare` | AI-generated 500-word article on *AI in Healthcare* |
 
 ![Tested Input/Output](img/TestedInputOutput1.png)  
 ![Tested Input/Output](img/TestedInputOutput2.png)  

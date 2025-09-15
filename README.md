@@ -51,7 +51,7 @@ It saves time and makes AI content generation accessible for everyone.
 ---
 
 ## 👨‍💻 Author
-**Mohammad Daanish**  
+**Md Danish Alam**  
 📌 Passionate about **AI, Automation, and Workflow Design**.  
 
 ---
